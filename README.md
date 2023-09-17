@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+
+IMPORTANT - I misplaced my backend code to access the spotify api via python soooooo... This is just the code that creates the webplayer using react.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
